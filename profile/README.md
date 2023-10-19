@@ -2,6 +2,8 @@
 
 Where all our code is :3
 
+In case you needed to go back and read more documentation here's the link to the [confluence](https://propagate-ink.atlassian.net/wiki/spaces/TEAM/overview)
+
 <!--
 
 **Here are some ideas to get you started:**
